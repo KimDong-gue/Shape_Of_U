@@ -16,6 +16,8 @@
 
 ### Dataset: https://www.kaggle.com/datasets/niten19/face-shape-dataset/data
 
+### ProjectSchdule: 23/10/11 ~ 23/10/29 (약 3주)
+
 ***
 
 # 기획
