@@ -34,12 +34,23 @@
 
 # 성능개선노력
 
-![image](https://github.com/KimDong-gue/Shape_Of_U_/assets/116249934/9094adc3-cb73-47c0-b683-942c31ab8f94)
+- Drop out을 층에 적게 주면 리소스 부족 문제가 발생
+- Batch Normalization과 Drop out을 해주면 
+Overfitting 방지로 성능이 올라감을 느낌
+- Drop out은 앞에 층에서 크게 주고, 
+뒤 은닉층으로 갈수록 작게 줘야 한다는 것을 느낌
+- 데이터 핸들링 (Face Dectection, Augmentation)
+- 모델 핸들링 (Fine tuning)
+
+# Model 선정이유
+
+- 마이크로소프트에서 제안하고 2015년 이미지넷에서 우승한 모델
+- 50개 계층으로 구성된 컨벌루션 신경망
+- 최근까지 가장 많이 사용됨
+- ImageNet 데이터베이스의 1백만 개가 넘는 이미지에 대해 훈련된 신경망의 사전 훈련된 버전을 불러올 수 있음
+
+***
 
 # Model Evaluation
 
 ![image](https://github.com/KimDong-gue/Shape_Of_U_/assets/116249934/94d9b34e-c4b1-43ee-a850-3d48aa224196)
-
-# Model 선정이유
-
-![image](https://github.com/KimDong-gue/Shape_Of_U_/assets/116249934/769aaaf1-d17e-4260-af49-d9077c382087)
