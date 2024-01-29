@@ -38,6 +38,11 @@
 
 <br>
 
+|<div align='center'>모델 구조</div>|
+|---|
+![image](https://github.com/KimDong-gue/Shape_Of_U/assets/116249934/df1772bf-0aa5-43b0-83d8-b3baddbfe251)
+
+
 |<div align='center'>Model Evaluation</div>|
 |---|
 |![image](https://github.com/KimDong-gue/Shape_Of_U_/assets/116249934/94d9b34e-c4b1-43ee-a850-3d48aa224196)|
@@ -55,10 +60,11 @@
 
  |<div align='center'>성능개선 노력</div>|
  |---|
+![image](https://github.com/KimDong-gue/Shape_Of_U/assets/116249934/78aee2fd-aa14-4f2d-8606-519315e52161)
 |- Drop out을 층에 적게 주면 리소스 부족 문제가 발생|
 |- Batch Normalization과 Drop out을 해주면 Overfitting 방지로 성능이 올라감을 느낌|
 |- Drop out은 앞에 층에서 크게 주고, 뒤 은닉층으로 갈수록 작게 줘야 한다는 것을 느낌|
-|- 데이터 핸들링 (Face Dectection, Augmentation)|
-|- 모델 핸들링 (Fine tuning)|
+|- 데이터 핸들링 ; Face Dectection, Augmentation|
+|- 모델 핸들링 ; Fine tuning|
 
  <br>
