@@ -25,7 +25,7 @@
 |<div align='center'>기획 의도</div>|
 |---|
 ![image](https://github.com/KimDong-gue/Shape_Of_U_/assets/116249934/9104118b-9775-4397-92f3-d14ee8adb5b4)
-|---|
+||
 ![image](https://github.com/KimDong-gue/Shape_Of_U/assets/116249934/255d7615-170c-4cc6-8a99-41d09048f828)
 
 - 얼굴형을 알면 쉽게 스타일링이 가능하다.
